@@ -1,0 +1,12 @@
+Pillow
+NeuroTools
+SLIP
+LogGabor
+scikit-image
+lmfit
+opencv-python
+keyboard
+sporco
+met_brewer
+scikit_posthocs
+pyfftw
